@@ -1,4 +1,4 @@
-jupyter-lab
+jupyterlab
 numpy==1.19.5
 pandas==1.1.3
 opencv-python==4.2.0.34
