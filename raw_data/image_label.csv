@@ -1,0 +1,41 @@
+image_name,label_idx,label
+ airplane_00001.jpg        ,0, airplane
+ airplane_00002.jpg        ,0, airplane
+ airplane_00003.jpg        ,0, airplane
+ airplane_00010.jpg        ,0, airplane
+ airplane_00009.jpg        ,0, airplane
+ airplane_00008.jpg        ,0, airplane
+ airplane_00007.jpg        ,0, airplane
+ airplane_00006.jpg        ,0, airplane
+ airplane_00005.jpg        ,0, airplane
+ airplane_00004.jpg        ,0, airplane
+ basketball_court_00010.jpg,1, basketball
+ basketball_court_00009.jpg,1, basketball
+ basketball_court_00008.jpg,1, basketball
+ basketball_court_00007.jpg,1, basketball
+ basketball_court_00006.jpg,1, basketball
+ basketball_court_00005.jpg,1, basketball
+ basketball_court_00004.jpg,1, basketball
+ basketball_court_00003.jpg,1, basketball
+ basketball_court_00002.jpg,1, basketball
+ basketball_court_00001.jpg,1, basketball
+ commercial_area_00011.jpg ,2, commercial
+ commercial_area_00010.jpg ,2, commercial
+ commercial_area_00009.jpg ,2, commercial
+ commercial_area_00008.jpg ,2, commercial
+ commercial_area_00007.jpg ,2, commercial
+ commercial_area_00006.jpg ,2, commercial
+ commercial_area_00005.jpg ,2, commercial
+ commercial_area_00004.jpg ,2, commercial
+ commercial_area_00003.jpg ,2, commercial
+ commercial_area_00002.jpg ,2, commercial
+ river_00010.jpg           ,3, river
+ river_00009.jpg           ,3, river
+ river_00008.jpg           ,3, river
+ river_00007.jpg           ,3, river
+ river_00006.jpg           ,3, river
+ river_00005.jpg           ,3, river
+ river_00004.jpg           ,3, river
+ river_00003.jpg           ,3, river
+ river_00002.jpg           ,3, river
+ river_00001.jpg           ,3, river
